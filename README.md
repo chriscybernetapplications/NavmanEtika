@@ -1,0 +1,2 @@
+# NavmanEtika
+Navigational
